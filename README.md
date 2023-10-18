@@ -1,4 +1,4 @@
-# Uncovering-Sentiment-Patterns-in-ChatGPT![Project Details_page-0013](https://github.com/sm-ak-r33/Uncovering-Sentiment-Patterns-in-ChatGPT/assets/116037698/aee02476-45ff-468c-84dd-52d0193ac692)
+# Uncovering-Sentiment-Patterns-in-ChatGPT! 
 ![Project Details_page-0001](https://github.com/sm-ak-r33/Uncovering-Sentiment-Patterns-in-ChatGPT/assets/116037698/471593d0-de18-462c-86cc-b9141a46f921)
 ![Project Details_page-0002](https://github.com/sm-ak-r33/Uncovering-Sentiment-Patterns-in-ChatGPT/assets/116037698/2c461de7-1486-4232-8089-94da88ed6966)
 ![Project Details_page-0003](https://github.com/sm-ak-r33/Uncovering-Sentiment-Patterns-in-ChatGPT/assets/116037698/50acbc28-a869-4404-8462-470cf5c11bff)
